@@ -1,6 +1,5 @@
-### Hi there 👋
+![image](https://user-images.githubusercontent.com/51547216/218137364-f397d765-0345-4f67-8aa8-3a5fc6a56776.png)
 I'm Mengxi and I am a Robotics Software Engineer who works across disciplines. My work combines my passion for developing solutions that have a positive impact with my skills in the fields of software development, robotics, and digital fabrication.
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mengxihe&hide=stars,issues,contribs&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mengxihe&theme=merko&hide_border=true)](https://git.io/streak-stats)
 <!--
 **mengxihe/mengxihe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
