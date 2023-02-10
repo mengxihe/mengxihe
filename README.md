@@ -1,5 +1,6 @@
 ### Hi there 👋
 I'm Mengxi and I am a Robotics Software Engineer who works across disciplines. My work combines my passion for developing solutions that have a positive impact with my skills in the fields of software development, robotics, and digital fabrication.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mengxihe)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mengxihe&theme=merko&hide_border=true)](https://git.io/streak-stats)
 <!--
 **mengxihe/mengxihe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
