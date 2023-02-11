@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/51547216/218137364-f397d765-0345-4f67-8aa8-3a5fc6a56776.png)
+Hi I'm Mengxi 
 I am a Robotics Software Engineer who works across disciplines. My work combines my passion for developing solutions that have a positive impact with my skills in the fields of software development, robotics, and digital fabrication.
 ![](https://komarev.com/ghpvc/?username=your-github-username)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mengxihe&theme=merko&hide_border=true)](https://git.io/streak-stats)
