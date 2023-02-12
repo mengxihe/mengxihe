@@ -5,6 +5,5 @@
 
 
 ![](https://komarev.com/ghpvc/?username=mengxihe&style=flat-square)
-## 👀 GitHub Profile Views
-[<img src="https://raw.githubusercontent.com/cycool29/cycool29/main/profile-views.svg" height="50"/>](https://github.com/mengxihe)
+
 
