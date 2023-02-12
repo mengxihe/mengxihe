@@ -4,5 +4,5 @@
 
 
 
-![](https://komarev.com/ghpvc/?username=mengxihe)
+![](https://komarev.com/ghpvc/?username=mengxihe&style=flat-square)
 
