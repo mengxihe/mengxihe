@@ -1,5 +1,5 @@
 
-<p align = "center" style="font-size:24px;">:wave: **Hi, I'm Mengxi** </p> 
+<p align = "center" style="font-size:24px;">:wave: <strong>Hi im Mengxi</strong> </p> 
 <p align = "center">I am a Robotics Software Engineer who works across disciplines. My work combines my passion for developing solutions that have a positive impact with my skills in the fields of software development, robotics, and digital fabrication.</p>
 
 <p align="center"> 
