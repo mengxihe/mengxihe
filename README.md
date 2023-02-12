@@ -1,8 +1,9 @@
-!Hi I'm Mengxi 
+Hi I'm Mengxi 
 I am a Robotics Software Engineer who works across disciplines. My work combines my passion for developing solutions that have a positive impact with my skills in the fields of software development, robotics, and digital fabrication.
-![](https://komarev.com/ghpvc/?username=your-github-username)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mengxihe&theme=merko&hide_border=true)](https://git.io/streak-stats)
-<!--
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
+</p>
 **mengxihe/mengxihe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
