@@ -5,8 +5,6 @@
 <p align="center"> 
   Visitor count<br>
   <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=mengxihe">
-    <img src="https://komarev.com/ghpvc/api/count/mengxihe" alt="GitHub Profile Views"/>
-  </a>
-</p>
+    ![](https://komarev.com/ghpvc/?username=mengxihe)
+  </p>
 </p>
