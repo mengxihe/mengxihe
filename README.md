@@ -4,7 +4,6 @@
 
 <p align="center"> 
   Visitor count<br>
-  <p align="center">
-    ![](https://komarev.com/ghpvc/?username=mengxihe)
-  </p>
+  <p style="text-align: center;">![](https://komarev.com/ghpvc/?username=mengxihe)</p>
+
 </p>
