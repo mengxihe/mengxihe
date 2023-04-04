@@ -1,17 +1,28 @@
+# 👋 Hi there, I'm a Robotics Software Engineer and Digital Fabrication Enthusiast! 👨‍💻
 
-<p align = "center" style="font-size:36px;">:wave: <strong>Hi! I'm Mengxi!</strong> </p> 
-<p align = "center">Robotics Software Engineer | Digital Fabrication Enthusiast | Innovator | Lifelong Learner 🌐
+I'm passionate about the intersection of robotics, software development, and advanced manufacturing techniques. My mission is to make a tangible impact on the aerospace industry through cutting-edge robotic solutions and digital fabrication technologies.
 
-I am a forward-thinking Robotics Software Engineer with a keen interest in digital fabrication, always on the lookout for new challenges and opportunities to grow. My passion lies at the intersection of robotics, software development, and advanced manufacturing techniques, where I strive to make a tangible impact on the aerospace industry.
+## 🚀 My Areas of Expertise
 
-Beyond my work at Gradel Lightweight, I am an active participant in the robotics and digital fabrication communities, attending conferences, workshops, and hackathons to stay updated on the latest trends and emerging technologies. I enjoy engaging in knowledge-sharing and collaborating with professionals across various disciplines to explore novel ideas and tackle complex problems.
+- **Robotics Software Engineering:** Designing and developing high-quality software applications for complex robotic systems in aerospace manufacturing.
+- **Digital Fabrication:** Leveraging 3D printing, CNC machining, and other advanced manufacturing techniques to create innovative solutions for the aerospace industry.
+- **Machine Learning:** Applying machine learning algorithms to optimize robotic processes and enhance system performance in manufacturing applications.
 
-In my free time, I dedicate myself to experimenting with personal projects that involve robotics, 3D printing, and IoT. These hands-on experiences have honed my problem-solving skills and deepened my understanding of the practical applications of advanced manufacturing technologies.
+## 🌱 What I'm Learning
 
-My multidisciplinary background, coupled with my strong work ethic and relentless curiosity, allows me to approach challenges from unique perspectives and create innovative solutions in the ever-evolving landscape of robotics.
+I'm constantly expanding my knowledge in areas like:
 
-I am excited to connect with other professionals who share my passion for robotics, digital fabrication, and cutting-edge technologies. Let's forge new connections, exchange ideas, and work together to create a better future through innovation!</p>
+- Reinforcement Learning
+- Industrial IoT
+- Generative Design
+- Edge Computing
 
+## 📚 Personal Projects & Open-Source Contributions
 
+In my free time, I love working on personal projects and contributing to open-source initiatives that involve robotics, 3D printing, and IoT. Check out my repositories to see what I've been working on!
+
+## 🔗 Let's Connect!
+
+I'm excited to connect with other professionals who share my passion for robotics, digital fabrication, and cutting-edge technologies. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/mengxi-he/) - let's collaborate and create a better future through innovation! 🚀
 
 
