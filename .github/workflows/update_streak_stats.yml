@@ -1,0 +1,19 @@
+name: Update Streak Stats
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  update_streak_stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Update Streak Stats
+        uses: DenverCoder1/github-streak-stats@v1
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          readme: "README.md"
+          mode: "streak"
