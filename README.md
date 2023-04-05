@@ -25,5 +25,5 @@ In my free time, I love working on personal projects and contributing to open-so
 
 I'm excited to connect with other professionals who share my passion for robotics, digital fabrication, and cutting-edge technologies. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/mengxi-he/) - let's collaborate and create a better future through innovation! 🚀
 
-![Profile Views](https://visitor-badge.glitch.me/badge?page_id=mengxihe)
+![Profile Views](https://visitor-badge.glitch.me/badge?page_id=mengxihe.mengxihe)
 
