@@ -29,6 +29,8 @@ I'm excited to connect with other professionals who share my passion for robotic
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mengxihe&bg_color=0a0c10&ring_color=8b949e&fire_color=8b949e&text_color=c9d1d9&contrib_color=8b949e&curr_streak_color=58a6ff&side_num_color=8b949e&side_label_color=8b949e)
 
+<img src="https://github-readme-streak-stats.herokuapp.com?user=mengxihe&bg_color=0a0c10&ring_color=8b949e&fire_color=8b949e&text_color=c9d1d9&contrib_color=8b949e&curr_streak_color=58a6ff&side_num_color=8b949e&side_label_color=8b949e" width="80%">
+
 
 
 
