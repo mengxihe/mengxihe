@@ -16,6 +16,8 @@ I'm constantly expanding my knowledge in areas like:
 - Industrial IoT
 - Generative Design
 - Edge Computing
+- C++ 
+- ROS2
 
 ## 📚 Personal Projects & Open-Source Contributions
 
