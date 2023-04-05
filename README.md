@@ -28,8 +28,6 @@ I'm excited to connect with other professionals who share my passion for robotic
 ![Profile Views](https://visitor-badge.glitch.me/badge?page_id=mengxihe.mengxihe)
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mengxihe)](https://git.io/streak-stats)
-
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=mengxihe&theme=dark&hide_border=true&border_radius=10&fire=EB5454)](https://git.io/streak-stats)
 
 
