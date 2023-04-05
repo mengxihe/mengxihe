@@ -27,6 +27,7 @@ I'm excited to connect with other professionals who share my passion for robotic
 
 ![Profile Views](https://visitor-badge.glitch.me/badge?page_id=mengxihe.mengxihe)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mengxihe&theme=default&scale=80&bg_color=f6f8fa)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mengxihe&theme=default&scale=50&bg_color=0a0c10)
+
 
 
