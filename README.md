@@ -35,3 +35,4 @@ I'm excited to connect with other professionals who share my passion for robotic
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=mengxihe&theme=transparent&hide_border=true&border_radius=10&fire=EB5454&sideNums=898989&currStreakNum=EBEBEB&sideLabels=34E4EB&currStreakLabel=34E4EB&ring=EB5454)](https://git.io/streak-stats)
 
+![](https://hit.yhype.me/github/profile?user_id=1849174)
