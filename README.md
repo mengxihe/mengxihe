@@ -3,7 +3,7 @@
 I'm passionate about the intersection of robotics, software development, and advanced manufacturing techniques. My mission is to make a tangible impact on the aerospace industry through cutting-edge robotic solutions and digital fabrication technologies.
 
 ## 🚀 My Areas of Expertise
-
+  
 - **Robotics Software Engineering:** Designing and developing high-quality software applications for complex robotic systems in manufacturing.
 - **Digital Fabrication:** Leveraging Industrial Robotics, 3D printing, CNC machining, and other advanced manufacturing techniques to create innovative solutions for the aerospace industry.
 - **Machine Learning:** Applying machine learning algorithms to optimize robotic processes and enhance system performance in manufacturing applications.
