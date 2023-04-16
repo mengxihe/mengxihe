@@ -14,7 +14,7 @@ I'm constantly expanding my knowledge in areas like:
 
 - Reinforcement Learning
 - Industrial IoT
-- Edge Computing
+- Edge Computing 
 - C++ 
 - ROS2
 - Generative Design
