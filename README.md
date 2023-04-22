@@ -10,7 +10,7 @@ I'm passionate about the intersection of robotics, software development, and adv
    
 ## 🌱 What I'm Learning
 
-I'm constantly expanding my knowledge in areas like:
+I'm constantly expanding my knowledge in these areas:
 
 - Reinforcement Learning
 - Industrial IoT
