@@ -17,12 +17,6 @@ I'm constantly expanding my knowledge in these areas:
 - Edge Computing 
 - C++  
 - ROS2
-- Generative Design
-
-
-## 📚 Personal Projects & Open-Source Contributions
-
-In my free time, I love working on personal projects and contributing to open-source initiatives that involve robotics, 3D printing, and IoT. Check out my repositories to see what I've been working on!
 
 ## 🔗 Let's Connect!
 
