@@ -8,7 +8,7 @@ I'm passionate about the intersection of robotics, software development, and adv
 - **Digital Fabrication:** Leveraging Industrial Robotics, 3D printing, CNC machining, and other advanced manufacturing techniques to create innovative solutions for the aerospace industry.
 - **Machine Learning:** Applying machine learning algorithms to optimize robotic processes and enhance system performance in manufacturing applications.
    
-## 🌱 What I'm Learning
+## 🌱 What I'm Learning 
 
 I'm constantly expanding my knowledge in these areas:
 
