@@ -9,7 +9,7 @@ I'm passionate about the intersection of robotics, software development, and adv
 - **Machine Learning:** Applying machine learning algorithms to optimize robotic processes and enhance system performance in manufacturing applications.
    
 ## 🌱 What I'm Learning 
-    
+        
 I'm constantly expanding my knowledge in these areas:
 
 - Reinforcement Learning
