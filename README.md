@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm a Robotics Software Engineer and Digital Fabrication Enthusiast! 👨‍💻   
+# 👋 Hi there, I'm a Robotics Software Engineer and Digital Fabrication Enthusiast! 👨‍💻    
 
 I'm passionate about the intersection of robotics, software development, and advanced manufacturing techniques. My mission is to make a tangible impact on the aerospace industry through cutting-edge robotic solutions and digital fabrication technologies.  
 
