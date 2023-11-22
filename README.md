@@ -17,7 +17,7 @@ I'm constantly expanding my knowledge in these areas:
 - Edge Computing 
 - C++   
 - ROS2
-  
+     
 ## 🔗 Let's Connect!  
 
 I'm excited to connect with other professionals who share my passion for robotics, digital fabrication, and cutting-edge technologies. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/mengxi-he/) - let's collaborate and create a better future through innovation! 🚀
