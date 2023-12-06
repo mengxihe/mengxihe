@@ -13,7 +13,7 @@ I'm passionate about the intersection of robotics, software development, and adv
 I'm constantly expanding my knowledge in these areas:
 
 - Reinforcement Learning
-- Industrial IoT 
+- Industrial IoT    
 - Edge Computing 
 - C++   
 - ROS2
